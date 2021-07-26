@@ -37,6 +37,6 @@ setup(
     name='dwd-pollen-api',
     packages=find_packages(include=['dwd-pollen-api']),
     url='https://github.com/julianahrens/dwd-pollen-api',
-    version='1.0.0',
+    version='1.0.1',
     zip_safe=False,
 )
